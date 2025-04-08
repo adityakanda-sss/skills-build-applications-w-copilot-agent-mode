@@ -1,6 +1,6 @@
 # Update INSTALLED_APPS to reference the correct app path
 INSTALLED_APPS = [
-    'octofit_tracker_app',
+    'octofit-tracker.backend.octofit_tracker',
     'rest_framework',
     'corsheaders',
     'octofit_tracker.apps.OctofitTrackerConfig',
